@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Bariatric surgery for the Reduction of Cardio-Vascular Events (BRAVE) randomized controlled trial",
+    "category": "Clinical Trials",
+    "images": []
+  },
+  {
+    "title": "A Novel Surgical Simulator for Hand-Sewn Bowel Anastomoses in Difficult Anatomical Regions",
+    "category": "Surgical Simulation",
+    "images": [
+      "bowel-simulator.jpg"
+    ]
+  },
+  {
+    "title": "Eye-hand Coordination in Endoscopy",
+    "category": "Surgical Simulation",
+    "images": [
+      "endoscopy.jpg"
+    ]
+  },
+  {
+    "title": "Developing an Effective Teaching Model for Central Venous Catheterization Based on Eye-Hand Coordination Evidence",
+    "category": "Surgical Simulation",
+    "images": [
+      "central-venous-1.png",
+      "central-venous-2.png"
+    ]
+  },
+  {
+    "title": "Incorporating Indigenous Healing and Wellness Practices into a Bariatric Surgery Program",
+    "category": "Research with Indigenous Communities",
+    "images": []
+  },
+  {
+    "title": "Developing Guidelines for the Ethical Conduct of Surgical Research Involving Indigenous Peoples in Manitoba: A Collaborative Initiative",
+    "category": "Research with Indigenous Communities",
+    "images": []
+  },
+  {
+    "title": "Health Care Encounters and Pharmaceutical Utilization in Bariatric Surgery: A Provincial Administrative Data Analysis",
+    "category": "Other Projects",
+    "images": []
+  },
+  {
+    "title": "Post-operative Bariatric Surgery Follow-up: Comparison of In-person Versus Telephone Follow-up During the COVID-19 Pandemic",
+    "category": "Other Projects",
+    "images": []
+  }
+]

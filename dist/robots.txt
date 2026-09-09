@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ummisresearch.github.io/sitemap.xml

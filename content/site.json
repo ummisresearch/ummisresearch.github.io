@@ -1,0 +1,21 @@
+{
+  "name": "Institute for Minimal Access Surgical Sciences",
+  "shortName": "IMASS",
+  "url": "https://ummisresearch.github.io",
+  "description": "Surgical research at IMASS, University of Manitoba: clinical trials, surgical simulation, and research with Indigenous communities.",
+  "eyebrow": "University of Manitoba · Winnipeg, Canada",
+  "headline": "Advancing surgical care.\nThrough research.",
+  "intro": "We bring clinical research and surgical simulation together to improve patient care and the way surgeons learn.",
+  "email": "ummisresearch@gmail.com",
+  "phone": "(204) 258-1479",
+  "phoneLink": "+12042581479",
+  "address": ["Department of Surgery", "3rd Floor Z Block", "409 Taché Avenue", "Winnipeg, Manitoba R2H 2A6"],
+  "github": "https://github.com/ummisresearch",
+  "instagram": "https://www.instagram.com/imass_uofm/",
+  "sourceDate": "2026-09-09",
+  "researchAreas": [
+    {"title":"Clinical research", "text":"Investigating surgical outcomes, bariatric care, and the factors that shape patients’ experiences and recovery.", "anchor":"clinical-trials"},
+    {"title":"Surgical simulation", "text":"Developing training models and studying surgical skill acquisition with eye tracking, simulation, and emerging technologies.", "anchor":"surgical-simulation"},
+    {"title":"Research with Indigenous communities", "text":"Exploring Indigenous experiences of bariatric care and collaborative approaches to healing, wellness, and ethical surgical research.", "anchor":"research-with-indigenous-communities"}
+  ]
+}

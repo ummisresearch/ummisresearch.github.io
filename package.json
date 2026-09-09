@@ -1,0 +1,9 @@
+{
+  "name": "imass-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The IMASS research website — dependency-free static pages for GitHub Pages",
+  "scripts": {"build":"node scripts/build.mjs", "check":"node scripts/check.mjs"},
+  "engines": {"node":">=22"}
+}
