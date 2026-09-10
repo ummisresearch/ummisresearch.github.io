@@ -2,8 +2,6 @@
 
 A complete, six-page research website for the Institute for Minimal Access Surgical Sciences. Designed for **https://ummisresearch.github.io/**.
 
-Includes the supplied IMASS logo and surgical cover, all four project images, three doctor portraits, expanded team biographies, project and funding records, the publication list, and GitHub/Instagram icons in the shared footer.
-
 ## Quick start
 
 Install Node.js 22 or later, then run these commands from this folder:
@@ -25,8 +23,6 @@ Open http://localhost:8000/. Do not double-click an HTML file: root-relative lin
 
 ## Deploy to ummisresearch.github.io
 
-You must have permission to create/manage a repository under the GitHub account or organization **ummisresearch**. The repository must be named **ummisresearch.github.io**. A differently named repository will not produce the requested root address.
-
 1. Sign in to GitHub as an authorized user. Create a new public repository under **ummisresearch** named **ummisresearch.github.io**. Leave the initial README, license, and .gitignore options unchecked because this project supplies its own files. If that repository already exists, review its contents and back it up before migrating; do not overwrite it blindly.
 2. Unzip this package. Open a terminal **inside the extracted imass folder**, where this README and `package.json` live.
 3. Run the following commands (skip `git init` if using the included initialized working repository rather than the ZIP):
@@ -43,9 +39,10 @@ git push -u origin main
 5. Open **Actions → Deploy IMASS to GitHub Pages**. If the first run failed because Pages was not enabled yet, select **Run workflow** on `main` (or rerun the failed workflow).
 6. Wait for the build and deployment jobs to succeed. Visit **https://ummisresearch.github.io/**. GitHub may take a few minutes to make the first deployment available.
 
-Every future push to `main` rebuilds, checks, and deploys the site automatically. Organization policy may require an administrator to allow Actions or approve the `github-pages` environment. Do not disable organization protections; ask your administrator if needed.
+Every future push to `main` rebuilds, checks, and deploys the site automatically. 
+<!-- Organization policy may require an administrator to allow Actions or approve the `github-pages` environment. Do not disable organization protections; ask your administrator if needed. -->
 
-**No deployment has been performed on your behalf.** This package does not contain GitHub credentials or claim ownership of the GitHub organization. Creating the remote repository and enabling Pages are your steps.
+<!-- **No deployment has been performed on your behalf.** This package does not contain GitHub credentials or claim ownership of the GitHub organization. Creating the remote repository and enabling Pages are your steps. -->
 
 ### Upload through the GitHub website instead
 
@@ -126,9 +123,9 @@ The `.openai/hosting.json` file declares a static output folder for compatible t
 
 This version uses root-relative links and is intended for an organization/user root site or custom domain. It is **not** configured for a project subdirectory such as `username.github.io/imass/`. For a custom domain, update `url` in `content/site.json`, configure the domain and DNS in GitHub Pages settings, and rebuild. See GitHub’s official documentation below.
 
-## Before launch
+<!-- ## Before launch
 
-Read [CONTENT_REVIEW.md](CONTENT_REVIEW.md) for the few source ambiguities requiring lab review. Verify the supplied images are cleared for public use, particularly any images containing people or clinical settings. No analytics, third-party font requests, tracking scripts, Instagram embeds, or contact-form data collection are included.
+Read [CONTENT_REVIEW.md](CONTENT_REVIEW.md) for the few source ambiguities requiring lab review. Verify the supplied images are cleared for public use, particularly any images containing people or clinical settings. No analytics, third-party font requests, tracking scripts, Instagram embeds, or contact-form data collection are included. -->
 
 ## Official GitHub guides
 

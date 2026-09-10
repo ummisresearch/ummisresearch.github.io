@@ -86,6 +86,17 @@
     "image": ""
   },
   {
+    "name": "Duc Do",
+    "role": "Co-op Student",
+    "dates": "Fall 2026-Current",
+    "group": "Research team",
+    "bio": [
+      "Duc is an undergraduate Data Science Co-op student at the University of Manitoba. He joined the Institute for Minimal Access Surgical Sciences (IMASS) in September 2026 as a Data Analyst Co-op student and will be working with the team throughout Fall 2026 before returning to his academic program. Duc developed the IMASS lab website.",
+      "During his studies, Duc has held multiple undergraduate research roles across different labs. His current research interests include Medical Machine Learning, Data Mining, and Computer Vision."
+    ],
+    "image": ""
+  },
+  {
     "name": "Sara Watson",
     "role": "Undergraduate Student",
     "dates": "Summer 2026",
