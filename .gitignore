@@ -5,3 +5,5 @@ Thumbs.db
 .env.*
 !.env.example
 *.zip
+
+CONTENT_REVIEW.md

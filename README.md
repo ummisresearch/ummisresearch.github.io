@@ -40,9 +40,7 @@ git push -u origin main
 6. Wait for the build and deployment jobs to succeed. Visit **https://ummisresearch.github.io/**. GitHub may take a few minutes to make the first deployment available.
 
 Every future push to `main` rebuilds, checks, and deploys the site automatically. 
-<!-- Organization policy may require an administrator to allow Actions or approve the `github-pages` environment. Do not disable organization protections; ask your administrator if needed. -->
-
-<!-- **No deployment has been performed on your behalf.** This package does not contain GitHub credentials or claim ownership of the GitHub organization. Creating the remote repository and enabling Pages are your steps. -->
+<!-- Organization policy may require an administrator to allow Actions or approve the `github-pages` environment. Do not disable organization protections; ask administrator if needed. -->
 
 ### Upload through the GitHub website instead
 
